@@ -1,0 +1,9 @@
+Acme Corp Employee Handbook (sample)
+
+Leave policy: Full-time employees get 24 days of paid leave per year. Unused leave up to 10 days can be carried over to the next year.
+
+Work from home: Employees may work from home up to 2 days per week with manager approval.
+
+Refund policy: Customers can request a full refund within 30 days of purchase. After 30 days, only store credit is offered.
+
+Support hours: Customer support is available Monday to Friday, 9 AM to 6 PM IST, at support@acme.example.
